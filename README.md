@@ -12,7 +12,3 @@ git clone https://github.com/matthewatabet/intro_python.git
 cd intro_python
 ./runme
 ```
-
-## Contact
-matthewatabet@gmail.com
-
