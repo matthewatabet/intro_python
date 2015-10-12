@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
-source /home/matthewatabet/envs/ipython/bin/activate
+source /home/mparrott/envs/ipython/bin/activate
 cd $(dirname `readlink -f -- $0`)
 exec jupyter notebook
